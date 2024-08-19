@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is the chemical formula for water?",
+        "options": ["H2O", "CO2", "O2", "NaCl"],
+        "correct_answer": "H2O"
+    },
+    {
+        "question": "Which gas is most abundant in Earth's atmosphere?",
+        "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+        "correct_answer": "Nitrogen"
+    },
+    {
+        "question": "What is the powerhouse of the cell?",
+        "options": ["Nucleus", "Ribosome", "Mitochondria", "Chloroplast"],
+        "correct_answer": "Mitochondria"
+    },
+    {
+        "question": "What is the speed of light in a vacuum?",
+        "options": ["3 × 10^8 m/s", "3 × 10^6 m/s", "3 × 10^5 m/s", "3 × 10^7 m/s"],
+        "correct_answer": "3 × 10^8 m/s"
+    },
+    {
+        "question": "What is the pH level of pure water?",
+        "options": ["7", "5", "9", "3"],
+        "correct_answer": "7"
+    },
+    {
+        "question": "Who developed the theory of relativity?",
+        "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
+        "correct_answer": "Albert Einstein"
+    },
+    {
+        "question": "What is the atomic number of carbon?",
+        "options": ["6", "12", "8", "14"],
+        "correct_answer": "6"
+    },
+    {
+        "question": "Which part of the brain controls voluntary actions?",
+        "options": ["Cerebrum", "Cerebellum", "Medulla Oblongata", "Hypothalamus"],
+        "correct_answer": "Cerebrum"
+    },
+    {
+        "question": "What is the first element on the periodic table?",
+        "options": ["Hydrogen", "Helium", "Lithium", "Beryllium"],
+        "correct_answer": "Hydrogen"
+    },
+    {
+        "question": "What type of bond is formed when two atoms share electrons?",
+        "options": ["Ionic bond", "Covalent bond", "Hydrogen bond", "Metallic bond"],
+        "correct_answer": "Covalent bond"
+    }
+]

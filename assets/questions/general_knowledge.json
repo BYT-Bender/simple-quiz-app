@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "options": ["Paris", "London", "Berlin", "Madrid"],
+        "correct_answer": "Paris"
+    },
+    {
+        "question": "Who wrote the play 'Romeo and Juliet'?",
+        "options": ["William Shakespeare", "Charles Dickens", "Leo Tolstoy", "Mark Twain"],
+        "correct_answer": "William Shakespeare"
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+        "correct_answer": "Mars"
+    },
+    {
+        "question": "What is the largest ocean on Earth?",
+        "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+        "correct_answer": "Pacific Ocean"
+    },
+    {
+        "question": "Who discovered gravity?",
+        "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Niels Bohr"],
+        "correct_answer": "Isaac Newton"
+    },
+    {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "options": ["China", "Japan", "Thailand", "South Korea"],
+        "correct_answer": "Japan"
+    },
+    {
+        "question": "What is the boiling point of water?",
+        "options": ["100°C", "90°C", "80°C", "70°C"],
+        "correct_answer": "100°C"
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "options": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Claude Monet"],
+        "correct_answer": "Leonardo da Vinci"
+    },
+    {
+        "question": "What is the smallest country in the world?",
+        "options": ["Vatican City", "Monaco", "Nauru", "Liechtenstein"],
+        "correct_answer": "Vatican City"
+    },
+    {
+        "question": "Which element has the chemical symbol 'O'?",
+        "options": ["Oxygen", "Gold", "Osmium", "Oganesson"],
+        "correct_answer": "Oxygen"
+    }
+]

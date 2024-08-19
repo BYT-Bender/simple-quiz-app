@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Who was the first President of the United States?",
+        "options": ["George Washington", "Thomas Jefferson", "Abraham Lincoln", "John Adams"],
+        "correct_answer": "George Washington"
+    },
+    {
+        "question": "In which year did the Titanic sink?",
+        "options": ["1912", "1905", "1898", "1915"],
+        "correct_answer": "1912"
+    },
+    {
+        "question": "Which ancient civilization built the pyramids?",
+        "options": ["Egyptians", "Romans", "Greeks", "Aztecs"],
+        "correct_answer": "Egyptians"
+    },
+    {
+        "question": "Who was known as the Iron Lady?",
+        "options": ["Margaret Thatcher", "Indira Gandhi", "Angela Merkel", "Hillary Clinton"],
+        "correct_answer": "Margaret Thatcher"
+    },
+    {
+        "question": "Which war was fought between the North and South regions in the United States?",
+        "options": ["Civil War", "World War I", "World War II", "Vietnam War"],
+        "correct_answer": "Civil War"
+    },
+    {
+        "question": "Which empire was known for its road network and aqueducts?",
+        "options": ["Roman Empire", "Mongol Empire", "Ottoman Empire", "British Empire"],
+        "correct_answer": "Roman Empire"
+    },
+    {
+        "question": "Who discovered America in 1492?",
+        "options": ["Christopher Columbus", "Leif Erikson", "Amerigo Vespucci", "Ferdinand Magellan"],
+        "correct_answer": "Christopher Columbus"
+    },
+    {
+        "question": "Which document declared American independence from Britain?",
+        "options": ["Declaration of Independence", "Bill of Rights", "Emancipation Proclamation", "Magna Carta"],
+        "correct_answer": "Declaration of Independence"
+    },
+    {
+        "question": "Who was the leader of the Soviet Union during World War II?",
+        "options": ["Joseph Stalin", "Vladimir Lenin", "Nikita Khrushchev", "Mikhail Gorbachev"],
+        "correct_answer": "Joseph Stalin"
+    },
+    {
+        "question": "Which country was divided by the Berlin Wall?",
+        "options": ["Germany", "Austria", "Poland", "Czechoslovakia"],
+        "correct_answer": "Germany"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "question": "What is the derivative of sin(x)?",
+        "options": ["cos(x)", "sin(x)", "-cos(x)", "-sin(x)"],
+        "correct_answer": "cos(x)"
+    },
+    {
+        "question": "What is the integral of 1/x dx?",
+        "options": ["ln(x)", "e^x", "x^2/2", "1/x^2"],
+        "correct_answer": "ln(x)"
+    },
+    {
+        "question": "What is the determinant of a 2x2 matrix [[a, b], [c, d]]?",
+        "options": ["ad - bc", "ab - cd", "ac - bd", "a^2 - b^2"],
+        "correct_answer": "ad - bc"
+    },
+    {
+        "question": "What is the solution to the differential equation dy/dx = ky?",
+        "options": ["y = Ce^(kx)", "y = Cx^k", "y = Ck^x", "y = Ce^(x/k)"],
+        "correct_answer": "y = Ce^(kx)"
+    },
+    {
+        "question": "What is the value of π?",
+        "options": ["3.14159", "2.71828", "1.41421", "1.61803"],
+        "correct_answer": "3.14159"
+    },
+    {
+        "question": "What is the eigenvalue equation?",
+        "options": ["Ax = λx", "Ax = x/λ", "Ax = λ/A", "A/λ = x"],
+        "correct_answer": "Ax = λx"
+    },
+    {
+        "question": "What is the Taylor series expansion of e^x?",
+        "options": ["1 + x + x^2/2! + x^3/3! + ...", "1 - x + x^2/2! - x^3/3! + ...", "1 + x^2/2! + x^4/4! + ...", "1 + x/2! + x/3! + ..."],
+        "correct_answer": "1 + x + x^2/2! + x^3/3! + ..."
+    },
+    {
+        "question": "What is the Laplace transform of a function f(t)?",
+        "options": ["∫0^∞ e^(-st)f(t) dt", "∫0^∞ e^(st)f(t) dt", "∫0^∞ e^(-t/s)f(t) dt", "∫0^∞ e^(t/s)f(t) dt"],
+        "correct_answer": "∫0^∞ e^(-st)f(t) dt"
+    },
+    {
+        "question": "What is the value of the Golden Ratio?",
+        "options": ["1.61803", "2.71828", "3.14159", "1.41421"],
+        "correct_answer": "1.61803"
+    },
+    {
+        "question": "What is the binomial theorem?",
+        "options": ["(a+b)^n = Σ[nCk * a^(n-k) * b^k]", "(a-b)^n = Σ[nCk * a^(n-k) * b^k]", "(a+b)^n = Σ[nPk * a^(n-k) * b^k]", "(a+b)^n = Σ[n! * a^(n-k) * b^k]"],
+        "correct_answer": "(a+b)^n = Σ[nCk * a^(n-k) * b^k]"
+    }
+]
