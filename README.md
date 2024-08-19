@@ -1,9 +1,9 @@
-> This project has been made by BYT-Bender / Sourabh Srivastva
-
 # Quiz App Documentation
 
 ## Overview
 The Quiz App is a web-based application designed to allow users to take quizzes on various topics. The application is built using PHP and MySQL, with quiz questions stored in JSON files.
+
+> This project has been made by BYT-Bender / Sourabh Srivastva
 
 ## Features
  - **User Authentication:** Users must log in to take quizzes.
