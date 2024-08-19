@@ -48,7 +48,7 @@
                 <h1>Hi, <?php echo htmlspecialchars($_SESSION['username']); ?></h1>
                 <p>Let's make this day productive</p>
             <?php else: ?>
-                <p>Please <a href="/login.php">login</a> to start a quiz.</p>
+                <p>Please <a href="login.php">login</a> to start a quiz.</p>
             <?php endif; ?>
         </div>
         <div class="ranking">
