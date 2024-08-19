@@ -40,6 +40,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Quiz App</title>
     <link rel="stylesheet" href="assets/stylesheets/style.css">
+    <script src="assets/scripts/search.js" defer></script>
 </head>
 <body>
     <header>
@@ -86,7 +87,7 @@
         <div class="quiz-wrapper">
             <div class="quiz-filter">
                 <div class="search-bar">
-                    <input id="search-input" type="text" value="" placeholder="Search for a quiz">
+                    <input id="search-input" type="text" value="" placeholder="Search for a quiz" onkeyup="filterQuizzes()">
                 </div>
                 <div class="category">
                     <form method="get" action="">
