@@ -10,6 +10,7 @@
         if ($quizStarted) {
     ?>
         <script>
+            const quizId = <?php echo $quizId; ?>;
             let startTime = <?php echo $_SESSION['quiz_start_time']; ?>;
             let duration = <?php echo $durationInSeconds; ?>;
         </script>
