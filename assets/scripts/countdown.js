@@ -23,6 +23,6 @@ let timerInterval = setInterval(function() {
 
     if (timeRemaining <= 0) {
         clearInterval(timerInterval);
-        window.location.href = "quiz.php?id=<?php echo $quizId; ?>&finish=1";
+        window.location.href = "quiz.php?id="+quizId+"&finish=1";
     }
 }, 1000);
