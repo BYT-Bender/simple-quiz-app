@@ -12,6 +12,7 @@ The Quiz App is a web-based application designed to allow users to take quizzes 
  - **Question Navigation:** Users can navigate between questions using "Previous" and "Save and Next" buttons.
  - **Final Result:** The quiz result is displayed at the end, showing the score.
  - **Leaderboard:** Displays the top scores with usernames, points, and ranks.
+ - **Responsive:** Works on both Desktop and Mobile.
 
 ## Application Flow
 1. Home Screen:
