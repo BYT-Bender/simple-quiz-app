@@ -53,19 +53,19 @@ You can either search for quiz using search bar
 Or select a category to filter quizzes
 ![Screenshot 2024-08-19 202135](https://github.com/user-attachments/assets/05787827-1e7b-42b5-a212-53de68254638)
 
-You can select a quiz by click on it
+You can select a quiz by clicking on it
 ![Screenshot 2024-08-19 202226](https://github.com/user-attachments/assets/0a31d61c-418d-4fd2-9a18-c13063a88f0d)
 
 Next page will give you deatailed view of the quiz
 ![Screenshot 2024-08-19 202300](https://github.com/user-attachments/assets/4f35d3aa-63fc-48e7-884d-ad1f0f55be06)
 
-After clickin on "Start Quiz" you can attempt the questions
+After clicking on "Start Quiz" you can attempt the questions
 ![Screenshot 2024-08-19 202332](https://github.com/user-attachments/assets/c51a36c7-e5d3-47a5-be43-9d03bf149374)
 
 Simply select a option and click "Save & Next" [Green]
 ![Screenshot 2024-08-19 202407](https://github.com/user-attachments/assets/9b205012-25ac-483e-a58e-1b9efec59876)
 
-You can also makr a question for review [Blue]
+You can also mark a question for review [Blue]
 ![Screenshot 2024-08-19 202443](https://github.com/user-attachments/assets/899d0155-20b2-4c5b-9726-e9aa641bcd69)
 
 And if you decide to not attempt the question it will be marks as not attempted [Red]
@@ -81,7 +81,7 @@ When on the last question the "Save & Next" button changes into "Submit" button
 ![Screenshot 2024-08-19 202748](https://github.com/user-attachments/assets/67dc1b3a-e099-4753-a0a4-435a9bb8571a)
 
 You can submit the quiz by clicking on the "Submit" button or let the timer run out and it will automatically be submitted
-[![Watch the video]([https://i.sstatic.net/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY](https://github.com/user-attachments/assets/1977b2dc-5610-4612-9437-6b1ded2f4293))
+<br>[![Watch the video]([https://i.sstatic.net/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY](https://github.com/user-attachments/assets/1977b2dc-5610-4612-9437-6b1ded2f4293))
 
 You can click on "Ranking" to see your rank
 ![Screenshot 2024-08-19 203704](https://github.com/user-attachments/assets/e7f65f74-0baf-43ee-8199-799a193195bd)
