@@ -22,7 +22,9 @@
 <body>
     <header>
         <?php if (!$quizStarted): ?>
-            <h1>Let's Play!</h1>
+            <a href="index.php">
+                <h1>Let's Play!</h1>
+            </a>
             <div class="ranking">
                 <a href="leaderboard.php">
                     <div class="item">
