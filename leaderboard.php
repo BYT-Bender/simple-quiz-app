@@ -34,7 +34,9 @@
 </head>
 <body>    
     <header>
-        <h1>Leaderboard</h1>
+        <a href="index.php">
+            <h1>Leaderboard</h1>
+        </a>
         <div class="ranking">
             <a href="leaderboard.php">
                 <div class="item">
